@@ -17,7 +17,7 @@
 
 #### 💹 [Github Stats](https://github.com/mohuishou)
 
-[![Mohuishou's github stats](https://github-readme-stats.vercel.app/api?username=mohuishou)](https://github.com/mohuishou)
+[![Mohuishou's github stats](https://github-readme-stats.vercel.app/api?username=mohuishou&count_private=true&show_icons=true)](https://github.com/mohuishou)
 
 </td>
 </tr>
