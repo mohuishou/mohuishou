@@ -32,5 +32,5 @@ jobs:
       - name: update
         run: |
           git add .
-          git commit --allow-empty -m "feat: auto update by action"
+          git diff-index --quiet HEAD || git commit -m "feat: auto update by action"
           git push
