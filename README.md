@@ -47,20 +47,4 @@
 </td>
 </tr>
 
-
-</table>
-="50%">
-
-#### 🛠 Projects
-
-- [go-design-pattern](https://github.com/mohuishou/go-design-pattern)
-- [go-algorithm](https://github.com/mohuishou/go-algorithm)
-- [We川大小程序-前端](https://github.com/mohuishou/scuplus-wechat)
-- [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
-- [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
-
-</td>
-</tr>
-
-
 </table>
