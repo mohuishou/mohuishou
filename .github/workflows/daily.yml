@@ -24,6 +24,11 @@ jobs:
 
       - run: go run main.go
 
+      - name: git setting
+        run: |
+          git config --global user.email "1@lailin.xyz"
+          git config --global user.name "mohuishou"
+
       - name: update
         run: |
           git add .
