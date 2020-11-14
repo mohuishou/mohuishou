@@ -6,12 +6,9 @@
 <td valign="top"  width="50%">
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
-
-- [Go数据结构与算法01-链表(深入理解container/list&amp;LRU缓存的实现) - 2020-11-06](https://lailin.xyz/post/list.html)
-- [Go设计模式24-总结(更新完毕) - 2020-11-05](https://lailin.xyz/post/go-design-pattern.html)
-- [Go设计模式23-中介模式 - 2020-11-04](https://lailin.xyz/post/mediator.html)
-- [Go设计模式22-解释器模式 - 2020-11-03](https://lailin.xyz/post/interpreter.html)
-- [Go设计模式21-命令模式 - 2020-10-29](https://lailin.xyz/post/command.html)
+{{ range $index, $item := $.Articles}}
+- [{{$item.Title}} - {{$item.PublishedParsed.Format "2006-01-02"}}]({{$item.Link}})
+{{- end}}
 
 </td>
 <td valign="top"  width="50%">
@@ -38,25 +35,9 @@
 
 #### 🛠 Projects
 
-- [go-design-pattern](https://github.com/mohuishou/go-design-pattern)
-- [go-algorithm](https://github.com/mohuishou/go-algorithm)
 - [We川大小程序-前端](https://github.com/mohuishou/scuplus-wechat)
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
-- [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
-
-</td>
-</tr>
-
-
-</table>
-="50%">
-
-#### 🛠 Projects
-
 - [go-design-pattern](https://github.com/mohuishou/go-design-pattern)
-- [go-algorithm](https://github.com/mohuishou/go-algorithm)
-- [We川大小程序-前端](https://github.com/mohuishou/scuplus-wechat)
-- [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
 - [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
 
 </td>
