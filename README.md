@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go Struct 初始化风格的抉择 - 2020-11-22](https://lailin.xyz/post/go-new-struct-style-select.html)
 - [Go数据结构与算法03-数组下: 使用 GDB 调试 Golang 代码 - 2020-11-21](https://lailin.xyz/post/array_2.html)
 - [Go数据结构与算法02-数组: 深入理解 slice - 2020-11-15](https://lailin.xyz/post/array.html)
 - [Go数据结构与算法01-链表: 深入理解container/list&LRU缓存的实现 - 2020-11-06](https://lailin.xyz/post/list.html)
 - [Go设计模式24-总结(更新完毕) - 2020-11-05](https://lailin.xyz/post/go-design-pattern.html)
-- [Go设计模式23-中介模式 - 2020-11-04](https://lailin.xyz/post/mediator.html)
 
 </td>
 <td valign="top"  width="50%">
