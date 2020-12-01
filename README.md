@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go进阶训练营笔记02-微服务下: 服务发现&多租户 - 2020-11-29](https://lailin.xyz/post/mpvab3.html)
+- [Go进阶训练营笔记01-微服务上: 微服务概览 - 2020-11-25](https://lailin.xyz/post/soehtu.html)
 - [Go数据结构与算法05-栈下: 深入理解 defer - 2020-11-24](https://lailin.xyz/post/defer.html)
 - [Go数据结构与算法04-栈上: 如何实现一个计算器 - 2020-11-23](https://lailin.xyz/post/stack.html)
 - [Go Struct 初始化风格的抉择 - 2020-11-22](https://lailin.xyz/post/go-new-struct-style-select.html)
-- [Go数据结构与算法03-数组下: 使用 GDB 调试 Golang 代码 - 2020-11-21](https://lailin.xyz/post/array_2.html)
-- [Go数据结构与算法02-数组上: 深入理解 slice - 2020-11-15](https://lailin.xyz/post/array.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -47,6 +47,6 @@
 </td>
 </tr>
 
-</table>>
+</table>table>>
 
 </table>
