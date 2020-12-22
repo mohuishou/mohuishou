@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Week03: Go并发编程(三) data race - 2020-12-07](https://lailin.xyz/post/go-training-week3-data-race.html)
 - [Week03: Go并发编程(二) Go 内存模型 - 2020-12-07](https://lailin.xyz/post/go-training-week3-go-memory-model.html)
 - [Week03: Go并发编程(一) goroutine - 2020-12-07](https://lailin.xyz/post/go-training-week3-goroutine.html)
 - [Week02: Go错误处理最佳实践 - 2020-12-01](https://lailin.xyz/post/go-training-03.html)
 - [Week01: 微服务(二) 服务发现&多租户 - 2020-11-29](https://lailin.xyz/post/go-training-02.html)
-- [Week01: 微服务(一) 微服务概览 - 2020-11-25](https://lailin.xyz/post/go-training-01.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -47,9 +47,7 @@
 </td>
 </tr>
 
-</table>/ImageOCR)
-
-</td>
+</table></td>
 </tr>
 
 </table>
