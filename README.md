@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
-- [Week03: Go并发编程(九) 深入理解 Context - 2021-01-04](https://lailin.xyz/post/go-training-week3-context.html)
+- [Week03: Go并发编程(十一) 总结 - 2021-01-15](https://lailin.xyz/post/go-training-week3-sum.html)
+- [Week03: Go并发编程(十) 深入理解 Channel - 2021-01-14](https://lailin.xyz/post/go-training-week3-channel.html)
+- [Week03: Go并发编程(九) 深入理解 Context - 2021-01-08](https://lailin.xyz/post/go-training-week3-context.html)
 - [Week03: Go并发编程(八) 深入理解 sync.Once - 2020-12-28](https://lailin.xyz/post/go-training-week3-once.html)
 - [Week03: Go并发编程(七) 深入理解 errgroup - 2020-12-28](https://lailin.xyz/post/go-training-week3-errgroup.html)
-- [Week03: Go并发编程(六) 深入理解 WaitGroup - 2020-12-27](https://lailin.xyz/post/go-training-week3-waitgroup.html)
-- [Week03: Go并发编程(五) 深入理解 sync/atomic - 2020-12-27](https://lailin.xyz/post/go-training-week3-atomic.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -44,6 +44,10 @@
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
 - [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
 
+</td>
+</tr>
+
+</table>
 </td>
 </tr>
 
