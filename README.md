@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Week04: Go工程化(一) 架构整洁之道阅读笔记 - 2021-01-26](https://lailin.xyz/post/go-training-week4-clean-arch.html)
 - [Week03: Go并发编程(十一) 总结 - 2021-01-15](https://lailin.xyz/post/go-training-week3-sum.html)
 - [Week03: Go并发编程(十) 深入理解 Channel - 2021-01-14](https://lailin.xyz/post/go-training-week3-channel.html)
 - [Week03: Go并发编程(九) 深入理解 Context - 2021-01-08](https://lailin.xyz/post/go-training-week3-context.html)
 - [Week03: Go并发编程(八) 深入理解 sync.Once - 2020-12-28](https://lailin.xyz/post/go-training-week3-once.html)
-- [Week03: Go并发编程(七) 深入理解 errgroup - 2020-12-28](https://lailin.xyz/post/go-training-week3-errgroup.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -47,8 +47,6 @@
 </td>
 </tr>
 
-</table>
-</td>
-</tr>
+</table>/tr>
 
 </table>
