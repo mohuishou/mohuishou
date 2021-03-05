@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go工程化(六) 配置管理 - 2021-03-04](https://lailin.xyz/post/go-training-week4-config.html)
 - [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码 - 2021-03-02](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
 - [Go工程化(四) API 设计上: 项目结构 & 设计 - 2021-03-01](https://lailin.xyz/post/go-training-week4-api-design.html)
 - [Go工程化(三) 依赖注入框架 wire - 2021-02-22](https://lailin.xyz/post/go-training-week4-wire.html)
 - [Go工程化(二) 项目目录结构 - 2021-02-06](https://lailin.xyz/post/go-training-week4-project-layout.html)
-- [Go工程化(一) 架构整洁之道阅读笔记 - 2021-01-26](https://lailin.xyz/post/go-training-week4-clean-arch.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -44,6 +44,10 @@
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
 - [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
 
+</td>
+</tr>
+
+</table>
 </td>
 </tr>
 
