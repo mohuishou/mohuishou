@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go工程化(八) 单元测试 - 2021-03-09](https://lailin.xyz/post/go-training-week4-unit-test.html)
 - [Go工程化(七) Go Module - 2021-03-06](https://lailin.xyz/post/go-training-week4-go-module.html)
 - [Go工程化(六) 配置管理 - 2021-03-05](https://lailin.xyz/post/go-training-week4-config.html)
 - [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码 - 2021-03-03](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
 - [Go工程化(四) API 设计上: 项目结构 & 设计 - 2021-03-01](https://lailin.xyz/post/go-training-week4-api-design.html)
-- [Go工程化(三) 依赖注入框架 wire - 2021-02-22](https://lailin.xyz/post/go-training-week4-wire.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -47,7 +47,7 @@
 </td>
 </tr>
 
-</table>/tr>
+</table>table>/tr>
 
 </table>
 </td>
