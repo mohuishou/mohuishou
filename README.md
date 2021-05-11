@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
-- [Go工程化(九) 项目重构实践 - 2021-03-11](https://lailin.xyz/post/go-training-week4-practice.html)
-- [Go工程化(八) 单元测试 - 2021-03-09](https://lailin.xyz/post/go-training-week4-unit-test.html)
-- [Go工程化(七) Go Module - 2021-03-06](https://lailin.xyz/post/go-training-week4-go-module.html)
-- [Go工程化(六) 配置管理 - 2021-03-05](https://lailin.xyz/post/go-training-week4-config.html)
-- [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码 - 2021-03-03](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
+- [5. kubebuilder 实战: CRUD - 2021-05-11](https://lailin.xyz/post/operator-05-kubebuilder-crud.html)
+- [4. kustomize 简明教程 - 2021-05-10](https://lailin.xyz/post/operator-04-kustomize-tutorial.html)
+- [3. KubeBuilder 简明教程 - 2021-05-08](https://lailin.xyz/post/operator-03-kubebuilder-tutorial.html)
+- [2. Kind: 如何快速搭建本地 K8s 开发环境？ - 2021-05-07](https://lailin.xyz/post/operator-02-use-kind-create-k8s-local-cluster.html)
+- [1. Operator概述: 如何对 Kubernetes 进行扩展 - 2021-05-06](https://lailin.xyz/post/operator-01-overview.html)
 
 </td>
 <td valign="top"  width="50%">
@@ -44,15 +44,6 @@
 - [We川大小程序-后端](https://github.com/mohuishou/scuplus-go)
 - [PHP 验证码识别](https://github.com/mohuishou/ImageOCR)
 
-</td>
-</tr>
-
-</table>/td>
-</tr>
-
-</table>table>/tr>
-
-</table>
 </td>
 </tr>
 

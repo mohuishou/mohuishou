@@ -22,7 +22,7 @@ func main() {
 		log.Panicf("tpl init err: %v", err)
 	}
 
-	f, err := os.OpenFile("./README.md", os.O_WRONLY, os.ModePerm)
+	f, err := os.OpenFile("./README.md", os.O_WRONLY|os.O_TRUNC, os.ModePerm)
 	if err != nil {
 		log.Panicf("open readme err: %v", err)
 	}

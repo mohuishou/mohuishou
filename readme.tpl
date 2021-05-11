@@ -7,7 +7,7 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 {{ range $index, $item := $.Articles}}
-- [{{$item.Title}} - {{$item.PublishedParsed.Format "2006-01-02"}}]({{$item.Link}})
+- [{{$item.Title}} - {{$item.PublishedParsed.Local.Format "2006-01-02"}}]({{$item.Link}})
 {{- end}}
 
 </td>
