@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [7. kubebuilder 进阶: 测试 - 2021-05-12](https://lailin.xyz/post/operator-07-kubebuilder-test.html)
 - [6. kubebuilder 实战: status & event - 2021-05-11](https://lailin.xyz/post/operator-06-kubebuilder-status-and-event.html)
 - [5. kubebuilder 实战: CRUD - 2021-05-10](https://lailin.xyz/post/operator-05-kubebuilder-crud.html)
 - [4. kustomize 简明教程 - 2021-05-09](https://lailin.xyz/post/operator-04-kustomize-tutorial.html)
 - [3. KubeBuilder 简明教程 - 2021-05-07](https://lailin.xyz/post/operator-03-kubebuilder-tutorial.html)
-- [2. Kind: 如何快速搭建本地 K8s 开发环境？ - 2021-05-06](https://lailin.xyz/post/operator-02-use-kind-create-k8s-local-cluster.html)
 
 </td>
 <td valign="top"  width="50%">
