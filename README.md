@@ -28,6 +28,8 @@
 
 #### 👀 Follow Me
 
+![微信公众号](https://mohuishou-blog-sz.oss-cn-shenzhen.aliyuncs.com/custom/wechat_white.png)
+
 - [博客](https://lailin.xyz)
 - [Github](https://github.com/mohuishou)
 - [知乎](https://www.zhihu.com/people/mo-hui-shou-76)
