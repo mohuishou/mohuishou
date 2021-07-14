@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [一个普通 Go 开发的三年 - 2021-07-13](https://lailin.xyz/post/3-years-summary.html)
 - [4. localhost 就一定是 localhost 么? - 2021-06-15](https://lailin.xyz/post/localhost.html)
 - [Go可用性(七) 总结: 一张图串联可用性知识点 - 2021-05-25](https://lailin.xyz/post/go-training-week6-7-summary.html)
 - [Go可用性(六) 熔断 - 2021-05-23](https://lailin.xyz/post/go-training-week6-6-breaker.html)
 - [10. 总结 - 2021-05-17](https://lailin.xyz/post/operator-11-summary.html)
-- [9. kubebuilder 进阶: 源码分析 - 2021-05-16](https://lailin.xyz/post/operator-09-kubebuilder-code.html)
 
 </td>
 <td valign="top"  width="50%">
