@@ -1,4 +1,4 @@
-⭐ Hello, 我是 Mohuishou 目前就职于成都某厂，主要写 Golang，偶尔也写写前端，少量写一写 ruby 代码，欢迎 Follow
+⭐ Hello, 我是 Mohuishou 目前就职于深圳某厂，主要写 Golang，偶尔也写写前端，少量写一写 ruby 代码，欢迎 Follow
 
 <table>
   
