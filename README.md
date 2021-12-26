@@ -1,4 +1,4 @@
-⭐ Hello, 我是 Mohuishou 目前就职于深圳某厂，主要写 Golang，偶尔也写写前端，少量写一写 ruby 代码，欢迎 Follow
+⭐ Hello, 我是 Mohuishou 目前就职于成都某厂，主要写 Golang，欢迎 Follow
 
 <table>
   
@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go 工程化(十) 如何在整洁架构中使用事务? - 2021-12-23](https://lailin.xyz/post/clean-arch-transaction.html)
+- [给博客添加章节目录 - 2021-12-20](https://lailin.xyz/post/add-catefories-sidebar-in-blog.html)
+- [使用 Notion Database 管理静态博客文章 - 2021-12-19](https://lailin.xyz/post/notion-markdown-blog.html)
 - [一个普通 Go 开发的三年 - 2021-07-13](https://lailin.xyz/post/3-years-summary.html)
 - [4. localhost 就一定是 localhost 么? - 2021-06-15](https://lailin.xyz/post/localhost.html)
-- [Go可用性(七) 总结: 一张图串联可用性知识点 - 2021-05-25](https://lailin.xyz/post/go-training-week6-7-summary.html)
-- [Go可用性(六) 熔断 - 2021-05-23](https://lailin.xyz/post/go-training-week6-6-breaker.html)
-- [10. 总结 - 2021-05-17](https://lailin.xyz/post/operator-11-summary.html)
 
 </td>
 <td valign="top"  width="50%">
