@@ -7,11 +7,11 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
+- [Go 工程化(十一) 如何优雅的写出 repo  层代码 - 2021-12-26](https://lailin.xyz/post/graceful-repo-code.html)
 - [Go 工程化(十) 如何在整洁架构中使用事务? - 2021-12-23](https://lailin.xyz/post/clean-arch-transaction.html)
 - [给博客添加章节目录 - 2021-12-20](https://lailin.xyz/post/add-catefories-sidebar-in-blog.html)
 - [使用 Notion Database 管理静态博客文章 - 2021-12-19](https://lailin.xyz/post/notion-markdown-blog.html)
 - [一个普通 Go 开发的三年 - 2021-07-13](https://lailin.xyz/post/3-years-summary.html)
-- [4. localhost 就一定是 localhost 么? - 2021-06-15](https://lailin.xyz/post/localhost.html)
 
 </td>
 <td valign="top"  width="50%">
