@@ -7,7 +7,7 @@
 
 #### ✏️ [Recent Blog](https://lailin.xyz)
 
-- [第三方应用如何调用我们 kubebuilder 生成的自定义资源? - 2022-11-16](https://lailin.xyz/post/operator-kubebuilder-clientset.html)
+- [第三方应用如何调用我们 kubebuilder 生成的自定义资源? - 2022-11-18](https://lailin.xyz/post/operator-kubebuilder-clientset.html)
 - [Kubernetes 简明教程 - 2022-11-06](https://lailin.xyz/post/k8s-tutorials.html)
 - [k8s job 为何迟迟不能结束？ - 2022-09-09](https://lailin.xyz/post/kubernetes-job-running-not-end.html)
 - [Go 工程化(十一) 如何优雅的写出 repo  层代码 - 2021-12-26](https://lailin.xyz/post/graceful-repo-code.html)
